@@ -41,7 +41,7 @@ pip install requests
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/usd-currency-converter.git
+   git clone https://github.com/Dj-gamer007/usd-currency-converter.git
    cd usd-currency-converter/src
    ```
 
