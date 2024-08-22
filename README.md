@@ -36,6 +36,10 @@ You can install the `requests` library using pip:
 pip install requests
 ```
 
+To get the API You need to sign up the website to get the own API for free
+https://currencylayer.com/dashboard
+
+
 ### Running the Application
 
 1. **Clone the Repository:**
